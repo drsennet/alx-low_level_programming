@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Preprocessor"
+gcc -E $CFILE -o c
