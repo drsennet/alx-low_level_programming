@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 int main(void)
 {
-	printf("#!/bin/bash.\n");
-	printf("gcc -S $CFILE> ${CFILE::-2}".S.\n");
+	printf("!#/bin/bash.\n");
+	printf("gcc  -o cisfun $CFILE.");
 	return (0);
 }
