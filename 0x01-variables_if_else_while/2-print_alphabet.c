@@ -17,11 +17,10 @@ int main(void)
 
 	/*print lowercase alphabets*/
 	for (ch = 'a'; ch <= 'z'; ch++)
-	
+	{
 		putchar(ch);
 
-	putchar('\n');
-	
-
+		putchar('\n');
+	}
 	return (0);
 }
