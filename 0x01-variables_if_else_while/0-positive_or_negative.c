@@ -1,4 +1,4 @@
-/**
+/*
  * File: 0-positive_or_negative.c
  * Author: Mamudu Hamidu <drsennet@gmail.com>
  */
@@ -7,13 +7,11 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry point
+ * main - prints 0-positive_or_negative
+ *	using if elseif else.
  *
- * Description: 'the program's description'
- * @parameter: describe the parameter
- *
- * Return: Always 0 (Success)
- */
+ * Return: Always 0.
+*/
 int main(void)
 {
 	/* Declare variable.*/
